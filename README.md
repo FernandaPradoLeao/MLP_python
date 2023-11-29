@@ -15,7 +15,7 @@ A aplicação consiste no EDA do dataset e desenvolvimento do modelo e o treinam
 ## Redes Neurais Multilayer Perceptrons 
 Rede neural com uma ou mais camadas ocultas com um número indeterminado de neurônios. A camada oculta possui esse nome porque não é possível prever a saída desejada nas camadas intermediárias. Para treinar a rede MLP, o algoritmo comumente utilizado é o de retropropagação (Backpropagation).
 
-![MLP](https://github.com/FernandaPradoLeao/MLP_python/blob/main/mlp_network.png)
+![MLP](https://github.com/FernandaPradoLeao/MLP_python/blob/main/1_piYTTh83qsQJVUMOZKmN5w.png)
 
 
 # Alunos
