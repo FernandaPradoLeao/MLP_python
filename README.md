@@ -13,7 +13,16 @@ A aplicação consiste no EDA do dataset e desenvolvimento do modelo e o treinam
 ###### https://www.youtube.com/watch?v=XYf8EczPysM
 
 ## Redes Neurais Multilayer Perceptrons 
-Rede neural com uma ou mais camadas ocultas com um número indeterminado de neurônios. A camada oculta possui esse nome porque não é possível prever a saída desejada nas camadas intermediárias. Para treinar a rede MLP, o algoritmo comumente utilizado é o de retropropagação (Backpropagation).
+O Perceptron é uma rede neural elementar, proposta por Frank Rosenblatt (1959), capaz de realizar tarefas de classificação. Rede neural com uma ou mais camadas ocultas com um número indeterminado de neurônios. A camada oculta possui esse nome porque não é possível prever a saída desejada nas camadas intermediárias. Para treinar a rede MLP, o algoritmo comumente utilizado é o de retropropagação (Backpropagation).
+
+Diferentemente do Perceptron e Adaline, onde existe apenas um único neurônio de saída {y}, o MLP pode relacionar o conhecimento a vários neurônios de saída.
+
+O algoritmo de aprendizagem do MLP é chamado backpropagation é composto de 4 passos:
+
+1º Passo: Inicialização\
+2º Passo: Ativação\
+3º Passo: Treinar os Pesos\
+4º Passo: Iteração
 
 ![MLP](https://github.com/FernandaPradoLeao/MLP_python/blob/main/1_piYTTh83qsQJVUMOZKmN5w.png)
 
